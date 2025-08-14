@@ -30,10 +30,8 @@
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## License
 
-Distributed under the MIT License. See [LICENSE](https://github.com/sohammanjrekar/Loan-Calculator-Using-HTML-CSS-JS/blob/main/LICENSE.md) for more information.
 
 ## Authors
 
-* **Soham Manjrekar** - *Comp Sci Student* - [Soham Manjrekar](https://github.com/sohammanjreakr/) - *Built website*
+* **Shaurya** 
